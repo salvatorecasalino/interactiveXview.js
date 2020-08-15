@@ -8,7 +8,7 @@ Preview
 
 ![InteractiveView.js version](http://img.shields.io/badge/InteractiveView.js-v0.0.1-brightgreen.svg)
 [![License](https://img.shields.io/badge/License-GPL-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![PayPal Donate](https://img.shields.io/badge/donate-PayPal.me-ff69b4.svg)](https://www.paypal.me/alvarotrigo/9.95)
+[![PayPal Donate](https://img.shields.io/badge/donate-PayPal.me-ff69b4.svg)](https://www.paypal.me/salvatorecasalino/10)
 
 
 [Live Demo](https://www.salvatorecasalino.it/interactive-resume)
